@@ -1,0 +1,35 @@
+---
+title: "Patrick Lewis"
+image: "patrick.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/patglew"
+  - label: GitHub
+    url: "https://github.com/pat-lewis"
+  - label: Email
+    url: "mailto:patlew@uw.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Patrick studies non-native fishes in the Chehalis River Basin, WA and how to leverage fish suppression as a tool to recover Pacific salmon. He primarily uses molecular tools to measure changes in distribution, diet, and abundance. Beyond his interest in invasive species, Patrick enjoys rock climbing, skiing, swimming, and cycling. At the end of the day, he is just looking to have a good time with friends and family. 
+
+## Education
+
+**University of Washington** | Seattle, MA
+
+M.S. in Aquatic and Fishery Sciences | September 2025 - present
+
+**The University of Michigan, Ann Arbor** | Ann Arbor, MI
+
+B.S. in Environment | September 2015 - May 2019
+
+## Experience
+
+**State of Washington** | Oil Spill Preparedness Planner | November 2024 - June 2025
+
+**State of California** | Environmental Scientist | December 2019 - May 2024
+
+**University of California San Diego** | Lead Field Research Assistant | June 2019 - October 2019
