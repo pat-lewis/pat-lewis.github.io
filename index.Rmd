@@ -12,12 +12,13 @@ links:
 output:
   postcards::solana
 ---
- 
-## Bio
+## test {.tabset}
+
+### Bio
 
 Patrick studies non-native fishes in the Chehalis River Basin, WA and how to leverage fish suppression as a tool to recover Pacific salmon. He primarily uses molecular tools to measure changes in distribution, diet, and abundance. Beyond his scientific interests, he enjoys rock climbing, skiing, swimming, and cycling. Above all, Patrick seeks to have a good time with friends and family. 
 
-## Education
+### Education
 
 **University of Washington** | Seattle, WA
 
@@ -27,7 +28,7 @@ M.S. in Aquatic and Fishery Sciences | September 2025 - present
 
 B.S. in Environment | September 2015 - May 2019
 
-## Experience
+### Experience
 
 **State of Washington** | Oil Spill Preparedness Planner | November 2024 - June 2025
 
