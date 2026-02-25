@@ -1,6 +1,6 @@
 ---
 title: |
-  ![](patrick.jpeg){width=2in}
+  ![](patrick.jpeg){width=2in} <br>
   Patrick Lewis
 links:
   - label: LinkedIn
